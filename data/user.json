@@ -1,0 +1,17 @@
+[
+    {
+        "user-name": "mehmetaziz",
+        "user-email": "mehmetazizcakmak21@gmail.com",
+        "password": 2127,
+        "status": "active",
+        "authority": "admin"
+    },
+    {
+        "user-name": "ayse",
+        "user-email": "aysekayaa@gmail.com",
+        "password": 2127,
+        "status": "pasif",
+        "authority": "costumer"
+    }
+
+]
